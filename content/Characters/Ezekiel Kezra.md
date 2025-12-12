@@ -33,6 +33,12 @@ tags:
 - **Eye Colour**: Dark brown
 - **Hair Colour**: Blue
 
+**Head view:**  
+![[Ezekiel-head.png|100x100]]
+
+**Skin view:**  
+![[Ezekiel.png|150x200]]
+
 ## Lore
 Ezekiel Kezra was a boy who was unloved by his parents since birth. He was thrown out of the house onto the streets. 
 He was found by this lovely lady around 50 years old named Rosa Chesterfield. She raised him as her own. At age 10 he worked as a blacksmith. 

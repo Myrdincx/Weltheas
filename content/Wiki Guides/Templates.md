@@ -69,4 +69,10 @@ publish: True
 - **Weight**: 
 - **Eye Colour**: 
 - **Hair Colour**: 
+  
+**Head view:**  
+![[NAME-head.png|100x100]]
+
+**Skin view:**  
+![[NAME.png|150x200]]
 ```
