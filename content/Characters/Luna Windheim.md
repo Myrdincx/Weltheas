@@ -41,6 +41,7 @@ tags:
 ![[Luna-head.png|100x100]]
 
 **Skin view:**  
+![[Luna.png|150x200]]
 - - -
 ## Lore
 

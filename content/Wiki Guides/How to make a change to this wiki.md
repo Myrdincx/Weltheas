@@ -69,7 +69,7 @@ A maintainer will review and merge it.
 #### How to create a new Markdown page
 1. Open the `content/` folder in GitHub, head over to the folder you’d like to add a file into.  
 2. Click **Add file → Create new file**
-3. Name your file like this: `content/<category>/<Your-Page-Name>.md`
+3. Name your file like this: `content/category/Your-Page-Name.md`
 
 Examples:
 ```

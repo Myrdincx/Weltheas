@@ -33,10 +33,10 @@ publish: True
 
 ```
 ---
-title: <Character name>
+title: Character name
 draft: false
 tags:
-  - <Family name>
+  - Family name
 publish: True
 ---
 - - -
@@ -51,7 +51,7 @@ publish: True
 	- Veldenspraak
 	- Common Tongue
 - **Nationality**: Welthian
-- **Occupation**: TBD
+- **Occupation**: 
 ### Genealogical Information 
 - **Family**: 
 - **Marital Status**: 
