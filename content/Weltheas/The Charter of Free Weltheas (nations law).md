@@ -4,7 +4,6 @@ draft: false
 tags:
   - Weltheas
   - Lore
-publish: True
 ---
 - - -
 #### The Constitution and Government

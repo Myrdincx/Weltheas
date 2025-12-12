@@ -3,9 +3,9 @@ title: Templates
 draft: false
 tags:
   - Guides
-publish: "True"
 ---
 - - -
+
 > [!danger] Rewrite needed 
 > This article is still a work in progress
 

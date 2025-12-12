@@ -2,7 +2,6 @@
 title: "@weltheas/home"
 description: This is the Weltheas wiki!
 socialImage: https://weltheas.myrdin.cx/static/og-image.png
-publish: "True"
 ---
 ---
 ### Welcome to Weltheas!

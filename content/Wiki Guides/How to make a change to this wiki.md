@@ -3,7 +3,6 @@ title: How to make a change to this wiki
 draft: false
 tags:
   - Guides
-publish: "True"
 ---
 - - -
 

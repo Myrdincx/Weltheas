@@ -3,7 +3,6 @@ title: "! Wiki Rules !"
 draft: false
 tags:
   - Guides
-publish: "True"
 ---
 - - -
 
