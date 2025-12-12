@@ -26,7 +26,7 @@ Let it be known, in the wake of war and false crowns, that a new city has risen 
 ## Article III: The Council of Weltheas
 
 1. The supreme civic authority of the Free City shall rest in the Council of Weltheas, a body of five members entrusted with governance, legislation, and oversight of the City’s institutions.
-2. All Council members must be chosen only by existing Council members, through a 5 out of 5 majority vote.
+2. All Council members must be chosen only by existing Council members, through a 4 out of 5 majority vote.
 3. All Council members must originate from the Four Founding Families unless four of the five Council members agree to appoint an individual from outside those lineages.
 4. The Council is responsible for:
 	- Proposing and enacting laws;
@@ -37,6 +37,9 @@ Let it be known, in the wake of war and false crowns, that a new city has risen 
 6. The Crisis Council’s authority shall expire once the full Council reconvenes, at which time all decisions made must be recorded and reviewed.
 7. The Council of Weltheas shall act always in service to the people of the Free City, holding their peace, prosperity, and safety above all other interests.
 8. The Advisor holds not a position within the Council but is appointed by the Council. It is their function to form a bridge between the Free People of Weltheas and the Council itself. Advisors will be elected by the Council and can be removed with a 4 out of 5 majority vote.
+9. The removal of a Council member shall require either:
+	- A three-fifths majority vote of the Council, ratified by the Advisor; or
+	- A four-fifths majority vote of the Council alone.
 
 ## Article IV: Citizenship and Participation
 
