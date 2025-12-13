@@ -11,7 +11,7 @@ tags:
 - **Age**: 20
 - **Gender**: Male
 - **Pronouns**: He/Him
-- **Religion**: TBD
+- **Religion**: [[The Order of Mytvran]]
 - **Languages**: 
 	- Veldenspraak
 	- Common Tongue
@@ -51,3 +51,4 @@ tags:
 ### The Death of His Parents Marked a New Beginning
 `[WIP]`
 
+### Revelations and becoming a Cultist
