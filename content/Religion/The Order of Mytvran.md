@@ -37,7 +37,7 @@ This being was later named Mytvran.
 
 ### Founding of the Order
 
-[[Myrdin Windheim]] did not immediately preach his revelations. For an undisclosed amount of time he lived in Weltheas quitely observing those he deemed “drowned”, individuals who exhibited heightened intuition, resilience or calmness.
+[[Myrdin Windheim]] did not immediately preach his revelations. For an undisclosed [^1] amount of time he lived in Weltheas quitely observing those he deemed “drowned”, individuals who exhibited heightened intuition, resilience or calmness.
 
 Only those deemed “drowned” enough are invited into the Order. Even then, initiation occurs in absolute secrecy. 
 
@@ -100,3 +100,4 @@ Secrecy is a foundational value of the Order of Mytvran.
 `[TBD]`
 
 
+[^1]: It is believed that Myrdin waited 33 days in silence before preaching his revelations.
