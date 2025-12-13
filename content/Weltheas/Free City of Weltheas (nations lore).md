@@ -7,8 +7,8 @@ tags:
 ---
 - - -
 
-> [!danger] Rewrite needed 
-> This article is still a work in progress
+> [!note] Work in Progress
+> This article is still a work in progress and changes are bound to happen.
 
 - - -
 #### "What is Sworn on Coin Binds All.”
