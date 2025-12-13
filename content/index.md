@@ -12,6 +12,17 @@ Members of our nation are able to upload and change all kinds of information abo
 
 ---
 
+### Getting Started
+
+In order to get started on the lore, there is a couple of things to do:
+- Make sure to read the [[! Wiki Rules !]]
+- Make sure to read our [[Free City of Weltheas (nations lore)]] and the [[The Charter of Free Weltheas (nations law)]]
+- Take a look at the different [Characters](https://weltheas.myrdin.cx/Characters/) and [Religions](https://weltheas.myrdin.cx/Religion/)
+
+- - -
+
+### What is Sworn on Coin Binds All!
+
 ```
               |    |    |                 
              )_)  )_)  )_)              
@@ -23,6 +34,8 @@ Members of our nation are able to upload and change all kinds of information abo
     ^^^^      ^^^^     ^^^    ^^
          ^^^^      ^^^
 ```
+
+- - -
 
 <details>
 <summary>Help people circumvent censorship!</summary>
