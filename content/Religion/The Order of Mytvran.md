@@ -20,7 +20,7 @@ socialImage: https://weltheas.myrdin.cx/media/Flags/Mytvran.png
 
 ## Overview
 
-The Order of Mytvran is a secretive religious order founded by [[Myrdin Windheim]] in the aftermath of [the Terror](https://weltheas.myrdin.cx/Weltheas/Free-City-of-Weltheas-(nations-lore)#fleeing-for-terror), the catastrophic event that forced all peoples of the (current) Weltheas to flee their homelands by sea. Although widely regarded by outsiders as a cult, its adherents vehemently reject this label, instead referring to themselves as a “Navigational Faith”.
+The Order of Mytvran is a secretive religious order founded by [[Myrdin Windheim]] in the aftermath of [[Free City of Weltheas (nations lore)#Fleeing for terror|the Terror]], the catastrophic event that forced all peoples of the (current) Weltheas to flee their homelands by sea. Although widely regarded by outsiders as a cult, its adherents vehemently reject this label, instead referring to themselves as a “Navigational Faith”.
 
 The Order worships Mytvran, an mysterious god often depicted as a colossal squid with a single vast eye. 
 
@@ -29,7 +29,7 @@ The Order worships Mytvran, an mysterious god often depicted as a colossal squid
 
 ### The Terror
 
-During [the Terror](https://weltheas.myrdin.cx/Weltheas/Free-City-of-Weltheas-(nations-lore)#fleeing-for-terror), when Weltheas became uninhabitable, vast fleets of evacuation ships carried refugees into exile. [[Myrdin Windheim]], then a child, fled aboard one such vessel with his parents. During the crossing, both parents perished. Accounts differ as to whether this was due to starvation, sickness, or an accident.
+During [[Free City of Weltheas (nations lore)#Fleeing for terror|the Terror]], when Weltheas became uninhabitable, vast fleets of evacuation ships carried refugees into exile. [[Myrdin Windheim]], then a child, fled aboard one such vessel with his parents. During the crossing, both parents perished. Accounts differ as to whether this was due to starvation, sickness, or an accident.
 
 On the night of their deaths, Myrdin claimed to have witnessed an oracle rising from the black water, visible only to him. The entity spoke without words, opening its immense eye and imparting what Myrdin later described as “the shape of survival.”
 
@@ -76,7 +76,7 @@ No conclusions are formally recorded.
 The number 33 holds symbolic importance within the Order. Despite this, not a single explanation is universally accepted. 
 
 Common interpretations include:
-- The believed amount of days [[Myrdin Windheim]] spent in silence after witnessing Mytvran. 
+- The believed amount of days [[Myrdin Windheim|Myrdin]] spent in silence after witnessing Mytvran. 
 - A symbolic measure of depth, representing the point at which light no longer reaches 
 
 Meetings are sometimes held in cycles of thirty-three days, and certain rituals are repeated thirty-three times. Members are discouraged from assigning fixed meaning to the number, as giving it an interpretation is considered a form of blindness.
@@ -97,5 +97,6 @@ Hierarchy within the Order is referred to as stations, resembling maritime tradi
 
 Secrecy is a foundational value of the Order of Mytvran.
 
+`[TBD]`
 
 
