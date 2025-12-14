@@ -10,7 +10,7 @@ title: "* Family Tree"
 ## Founding Families
 
 
-![[20251214.png]]
+![[tree.png]]
 
 - - -
 
