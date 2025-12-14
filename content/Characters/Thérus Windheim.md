@@ -43,6 +43,7 @@ tags:
 ![[Therus-head.png|100x100]]
 
 **Skin view:**  
+![[Therus.png|150x200]]
 
 - - -
 ## Lore
