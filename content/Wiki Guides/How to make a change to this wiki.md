@@ -9,7 +9,7 @@ tags:
 ## Before You Begin
 
 Please read and follow:
-- **Wiki Rules:** [[! Wiki Rules !]]
+- **Wiki Rules:** [[Wiki Rules]]
 - **Templates** (for new pages): [[Templates]]
 - You’ll also **need a GitHub account** to submit changes.
 - You need some basic knowledge on Markdown, here is a [handy guide](https://help.obsidian.md/callouts)

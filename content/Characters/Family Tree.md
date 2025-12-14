@@ -2,10 +2,6 @@
 excalidraw-plugin: parsed
 tags:
   - excalidraw
-  - Windheim
-  - Eklundt
-  - Wallenberg
-  - Åmsele
 draft: false
 title: "* Family Tree"
 ---

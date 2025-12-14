@@ -1,5 +1,5 @@
 ---
-title: "! Wiki Rules !"
+title: "* Wiki Rules"
 draft: false
 tags:
   - Guides
