@@ -14,7 +14,6 @@ tags:
 - **Religion**: TBD
 - **Languages**: 
 	- Veldenspraak 
-	- Common Tongue
 - **Nationality**: Welthian
 - **Occupation**: 
 	- Advisor of the Windheim Company

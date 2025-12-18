@@ -14,7 +14,6 @@ tags:
 - **Religion**: [[The Order of Mytvran]]
 - **Languages**: 
 	- Veldenspraak
-	- Common Tongue
 - **Nationality**: Welthian
 - **Occupation**: 
 	- Grand Admiral of The Windheim Company

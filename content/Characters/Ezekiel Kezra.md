@@ -13,7 +13,7 @@ tags:
 - **Pronouns**: He/Him
 - **Religion**: TBD
 - **Languages**: 
-	- Common Tongue
+	- Veldenspraak
 - **Nationality**: Unkown
 - **Occupation**: TBD
 ### Genealogical Information 
