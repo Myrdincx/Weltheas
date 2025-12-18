@@ -10,6 +10,8 @@ socialImage: https://weltheas.myrdin.cx/media/Flags/Mytvran.png
 > [!note] Work in Progress
 > This article is still a work in progress and changes are bound to happen.
 
+> [!danger] Important Roleplay Info
+> This is a hidden religion/cult, only those that are invited are supposed to know about it. Keep this in mind when roleplaying! 
 - - -
 
 > *”The sea opened for us.  
