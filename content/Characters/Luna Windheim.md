@@ -8,7 +8,7 @@ tags:
 ## Information
 ### Basic Information
 - **Name**: Luna Windheim (/lu:'na/ /ˈwɪndhaɪm/)
-- **Age**: 16
+- **Age**: 20
 - **Gender**: Female
 - **Pronouns**: TBD
 - **Religion**: TBD
@@ -30,7 +30,7 @@ tags:
 
 **Family tree**: [[Family Tree]] for all relations
 ### Physical Description
-- **Race**: Welthian
+- **Race**: ?
 - **Height**: 170cm
 - **Weight**: 65kg
 - **Eye Colour**: TBD

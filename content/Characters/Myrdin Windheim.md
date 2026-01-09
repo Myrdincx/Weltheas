@@ -8,7 +8,7 @@ tags:
 ## Information
 ### Basic Information
 - **Name**: Myrdin Windheim (/mi:ʀdin/ /ˈwɪndhaɪm/)
-- **Age**: 20
+- **Age**: 27
 - **Gender**: Male
 - **Pronouns**: He/Him
 - **Religion**: [[The Order of Mytvran]]

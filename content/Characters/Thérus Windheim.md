@@ -8,7 +8,7 @@ tags:
 ## Information
 ### Basic Information
 - **Name**: Thérus Windheim (/'θeʀys/ /ˈwɪndhaɪm/)
-- **Age**: 18
+- **Age**: 25
 - **Gender**: Male
 - **Pronouns**: He/Him
 - **Religion**: TBD
