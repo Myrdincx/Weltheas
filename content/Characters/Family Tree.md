@@ -9,7 +9,6 @@ title: "* Family Tree"
 
 ## Founding Families
 
-
 ![[tree.png]]
 
 - - -
