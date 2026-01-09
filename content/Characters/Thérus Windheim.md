@@ -32,7 +32,7 @@ tags:
 
 **Family tree**: [[Family Tree]] for all relations
 ### Physical Description
-- **Race**: Human
+- **Race**: Elf
 - **Height**: 178cm
 - **Weight**: 68kg
 - **Eye Colour**: Hazel Brown

@@ -32,7 +32,7 @@ tags:
 
 **Family tree:** [[Family Tree]] for all relations
 ### Physical Description
-- **Race**: Human
+- **Race**: Elf
 - **Height**: 180cm
 - **Weight**: 70kg
 - **Eye Colour**: Dark Green
