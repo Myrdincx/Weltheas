@@ -40,6 +40,7 @@ Let it be known, in the wake of war and false crowns, that a new city has risen 
 9. The removal of a Council member shall require either:
 	- A three-fifths majority vote of the Council, ratified by the Advisor; or
 	- A four-fifths majority vote of the Council alone.
+10. In order for general decisions to be ratified by the Council, it must have a 3/5 majority vote with a preference of the Advisor voting in favour of the decision as well. Within the Crisis Council, a 2/3 majority must be met in order to ratify a decision.
 
 ## Article IV: Citizenship and Participation
 
