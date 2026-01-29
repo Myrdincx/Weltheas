@@ -39,10 +39,10 @@ tags:
 - **Hair Colour**: Olive Brown
 
 **Head view:**  
-![[Myrdin-head.png|100x100]]
+![[Myrdin-head.png|150x150]]
 
 **Skin view:**  
-![[Myrdin.png|150x200]]
+![[Myrdin.png|150x250]]
 - - -
 ## Lore
 ### Early Life
