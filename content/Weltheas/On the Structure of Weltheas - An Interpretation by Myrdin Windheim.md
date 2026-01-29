@@ -1,5 +1,5 @@
 ---
-title: On the Structure of Weltheas
+title: On the Structure of Weltheas - An Interpretation by Myrdin Windheim
 draft: false
 tags:
   - Weltheas
