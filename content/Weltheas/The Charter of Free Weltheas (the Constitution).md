@@ -1,5 +1,5 @@
 ---
-title: The Charter of Free Weltheas (nations law)
+title: The Charter of Free Weltheas (the Constitution)
 draft: false
 tags:
   - Weltheas

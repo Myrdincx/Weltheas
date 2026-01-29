@@ -16,7 +16,7 @@ Members of our nation are able to upload and change all kinds of information abo
 
 In order to get started on the lore, there is a couple of things to do:
 - Make sure to read the [[Wiki Rules]]
-- Make sure to read our [[Free City of Weltheas (nations lore)|nations lore]] and the [[The Charter of Free Weltheas (nations law)|nation laws]]
+- Make sure to read our [[Free City of Weltheas (nations lore)|nations lore]] and the [[The Charter of Free Weltheas (the Constitution)|nation laws]]
 - Take a look at the different [Characters](https://weltheas.myrdin.cx/Characters/) and [Religions](https://weltheas.myrdin.cx/Religion/)
 - Want to write or edit a page? Check out [[How to make a change to this wiki|this page]]!
 
