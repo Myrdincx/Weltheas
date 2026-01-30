@@ -90,8 +90,7 @@ Meetings are sometimes held in cycles of thirty-three days, and certain rituals 
 Hierarchy within the Order is referred to as stations, resembling maritime traditions. 
 
 ### List of Ranks
-
-`[TBD]`
+- 
 
 - - -
 
