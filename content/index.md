@@ -21,7 +21,11 @@ In order to get started on the lore, there is a couple of things to do:
 - Want to write or edit a page? Check out [[How to make a change to this wiki|this page]]!
 
 - - -
+### Most Recent Changes
 
+
+
+- - -
 ### What is Sworn on Coin Binds All!
 
 ```
@@ -35,7 +39,6 @@ In order to get started on the lore, there is a couple of things to do:
     ^^^^      ^^^^     ^^^    ^^
          ^^^^      ^^^
 ```
-
 - - -
 
 <details>

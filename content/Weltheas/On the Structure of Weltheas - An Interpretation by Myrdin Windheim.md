@@ -13,7 +13,6 @@ description: An attempt to describe how Weltheas is built, from one of its creat
 > 
 > Side note: I (Myrdin) will be writing this article gradually to give a broader idea of how Weltheas works.
  
-
 - - -
 ## Important Terminology 
 
@@ -74,6 +73,30 @@ In Weltheas, crimes are categorized not solely by the harm inflicted upon indivi
 ### Economic Crimes
 
 ### Civic and Personal Crimes
+
+WIP
+
+## Military and War
+
+### Policies
+
+The Free City of Weltheas and its Council realise that sovereignty and stability can not be ensured without security. While our foundations rest on economic coordination, we acknowledge that defence is an essential part of the state.
+
+### No-Strike-First Doctrine
+
+Weltheas should aim to adopt a No-Strike-First Doctrine as a guiding military principle. This means that:
+- Weltheas shall NEVER initiate the first strike in an armed conflict
+- Military forces shall only be used when absolutely necessary:
+	- a direct attack on Weltheas
+	- a verified imminent threat 
+	- a formal defence obligation towards an ally being attacked 
+
+This doctrine should exist to build international trust and signal that Weltheas is a stabilizing power rather than an expansionist one.
+
+However, it should be clear that Weltheas is not pacifist. Absolute pacifism would leave our citizens and allies vulnerable. We recognize that the refusal to act in the face of aggression can enable instability. Therefore:
+- If Weltheas or any of its allies are being attacked, we will respond decisively.
+- Defensive action may extend beyond our borders if required to neutralize ongoing threats.
+- The objective of any military engagement shall be restoration of peace and security
 
 
 
