@@ -21,7 +21,7 @@ Then the signs began. First came the disappearances: border villages going silen
 
 Whatever darkness had taken root was spreading, and no one knew how far it would reach. That was a sign for Four Founding Families to flee the country they once owned. 
 
-Gathering their ships, their wealth, and those loyal to them, the Founding Families decided to turn southward. They left their familiar coastlines, sailing away from the Great Terror and towards lands they hadn’t yet discovered.
+Gathering their ships, their wealth, and those loyal to them, the Founding Families decided to turn southward. They left their familiar coastlines, sailing away from the Great Terror and towards lands that were less familiar to them.
 
 ## The Long Journey South
 
@@ -38,7 +38,7 @@ So they continued their voyage…
 
 ## A Port without a Crown
 
-Eventually, the wandering fleets discovered the new land, wrapped in mist and dominated by towering cliffs. It was a wild, unclaimed, and unexplored territory. Here, the Founding Families anchored their ships and set about the task of rebuilding.
+Eventually, the wandering fleets discovered the new land, wrapped in mist and dominated by towering cliffs. It was a place with small, poor and corrupt villages. Here, the Founding Families anchored their ships and set about the task of rebuilding.
 
 The Families were aware of what had led to the downfall of their previous land: crowns that were constantly at war with one another. Thus, they pledged to avoid repeating that mistake. Rather than establishing a monarchy, they created the Free City of Weltheas.
 
