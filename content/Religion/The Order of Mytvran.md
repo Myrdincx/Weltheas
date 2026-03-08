@@ -3,7 +3,7 @@ title: The Order of Mytvran
 draft: "false"
 tags:
   - Religion
-  - Cult
+  - SecretSociety
 socialImage: https://weltheas.myrdin.cx/media/Flags/Mytvran.png
 ---
 - - -
